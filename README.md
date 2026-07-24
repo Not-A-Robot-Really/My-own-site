@@ -14,7 +14,7 @@ This is my first personal website that I made using HTML and CSS while learning 
 ## How to view the website
 Open the corresponding website using github pages
  
-🔗 Live site: (TEMPLATE)
+🔗 Live site: https://not-a-robot-really.github.io/My-own-site/
  
 ## Checklist/Goals
 - [x] Add navigation bar
