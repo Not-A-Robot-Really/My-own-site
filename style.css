@@ -1,12 +1,16 @@
-/*css file -- Theme: blue and white */
+/* My css file. I tried to keep everything blue and white */
+/* Changed the font to Trebuchet because it's my favorite font */
+
  
 body {
     background-color: #ffffff;
-    font-family: Arial, sans-serif;
-    color: #14213d;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #1b3a6b;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
+/* went with a simple sans serif and trebuchet because it is easy to read and looks nice */
 
 header {
     background-color: #1e6fd9;
@@ -17,9 +21,11 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 40px;
+    font-size: 48px;
+    letter-spacing: 1px;
 }
- 
+/*Might change the boldness later*/
+
 nav {
     margin-top: 10px;
 }
@@ -28,7 +34,7 @@ nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
 }
  
@@ -44,7 +50,8 @@ section {
 }
  
 h2 {
-    color: #1e6fd9;
+    color: #0f4fad;
+    font-size: 32px;
     border-bottom: 3px solid #1e6fd9;
     padding-bottom: 5px;
 }
@@ -64,9 +71,10 @@ h2 {
     display: block;
     margin: 0 auto 15px auto;
 }
- 
+
 .project-box h3 {
     color: #1e6fd9;
+    font-size: 22px;
     margin-top: 0;
 }
  
@@ -74,17 +82,18 @@ ul {
     background-color: #eaf2ff;
     border-radius: 10px;
     padding: 20px 40px;
-    border: 2px solid #1e6fd9;
+    border: 2px solid #2574da;
 }
- 
+ /* I wanted to make the list look like a box with a border and padding */
 a {
-    color: #1e6fd9;
+    color: #3f7fe0;
 }
  
 footer {
     background-color: #1e6fd9;
     color: white;
     text-align: center;
+    font-size: 14px;
     padding: 15px;
     margin-top: 30px;
 }
